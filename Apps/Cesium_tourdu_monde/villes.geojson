@@ -1,0 +1,357 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Londres",
+        "datedepart": "Mercredi 2 octobre à 20heures 45 minutes",
+        "datearrivee": "Samedi 21 décembre à 20 heures 50 minutes"
+      },
+      "geometry": {
+        "coordinates": [
+          -0.125555,
+          51.49911
+        ],
+        "type": "Point"
+      },
+      "id": "0dc601eefe956aa18370462bb1f0b098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New-York",
+        "datearrivee": "Mercredi 11 décembre à 23 heures 15 minutes",
+        "datedepart": "Jeudi 12 décembre à 9 heures"
+      },
+      "geometry": {
+        "coordinates": [
+          -73.992807,
+          40.731236
+        ],
+        "type": "Point"
+      },
+      "id": "13b2516ed29f1c7429fe1a410e93b90b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calcutta",
+        "datearrivee": "Vendredi 25 octobre à 7 heures",
+        "datedepart": "Vendredi 25 octobre à 12 heures"
+      },
+      "geometry": {
+        "coordinates": [
+          88.347062,
+          22.568269
+        ],
+        "type": "Point"
+      },
+      "id": "218f18f2569c04075cef0c7eebc3aa69"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yokohama",
+        "datearrivee": "Jeudi 14 novembre au matin",
+        "datedepart": "Jeudi 14 novembre au soir"
+      },
+      "geometry": {
+        "coordinates": [
+          139.63736,
+          35.441758
+        ],
+        "type": "Point"
+      },
+      "id": "30ea6a3df467d25d86d94869601d5232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aden",
+        "datearrivee": "Lundi 14 octobre dans l'après-midi",
+        "datedepart": "Lundi 14 octobre à 18 heures"
+      },
+      "geometry": {
+        "coordinates": [
+          45.028758,
+          12.788903
+        ],
+        "type": "Point"
+      },
+      "id": "33a48d94e6455cb40d85d27074eb15bd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Turin",
+        "datearrivee": "Vendredi 4 octobre à 6 heures 35 minutes",
+        "datedepart": "Vendredi 4 octobre à 7 heures 20 minutes"
+      },
+      "geometry": {
+        "coordinates": [
+          7.674361,
+          45.062296
+        ],
+        "type": "Point"
+      },
+      "id": "406a4bc0c27c5b1dc0a11d99349fc593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Omaha",
+        "datearrivee": "Lundi 9 décembre à 13 heures",
+        "datedepart": "Lundi 9 décembre à 13 heures"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.939472,
+          41.257511
+        ],
+        "type": "Point"
+      },
+      "id": "64d2629c8c39b689fd1777097a076911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Francisco",
+        "datearrivee": "Mardi 3 décembre à 7 heures",
+        "datedepart": "Mardi 3 décembre à 18 heures"
+      },
+      "geometry": {
+        "coordinates": [
+          -122.419927,
+          37.771576
+        ],
+        "type": "Point"
+      },
+      "id": "76122948741bd2c9a7b49ca81c4f1564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Allahabad",
+        "datearrivee": "jeudi 24 octobre à 10 heures",
+        "datedepart": "Jeud 24 octobre à dans l'après-midi"
+      },
+      "geometry": {
+        "coordinates": [
+          81.827937,
+          25.436674
+        ],
+        "type": "Point"
+      },
+      "id": "81bfdb58a11c4f6e5350ca64b21d5376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paris",
+        "datearrivee": "Jeudi 3 octobre à 7 heures 20 minutes",
+        "datedepart": "Jeudi 3 octobre à 8 heures 40 minutes"
+      },
+      "geometry": {
+        "coordinates": [
+          2.351448,
+          48.855996
+        ],
+        "type": "Point"
+      },
+      "id": "94212d4f31ee0465be0383abd2184052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Suez",
+        "datearrivee": "Mercredi à 11 heures",
+        "datedepart": "Mercredi à 11 heures"
+      },
+      "geometry": {
+        "coordinates": [
+          32.535626,
+          29.975552
+        ],
+        "type": "Point"
+      },
+      "id": "9e1a77874e9db5e38c766426d779a2d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shangaï",
+        "datearrivee": "Lundi 11 novembre ",
+        "datedepart": "Lundi 11 novembre"
+      },
+      "geometry": {
+        "coordinates": [
+          121.495932,
+          31.22017
+        ],
+        "type": "Point"
+      },
+      "id": "ae65736482c30be614ce18f609ea6ef3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hong Kong",
+        "datearrivee": "Mercredi 6 novembre au soir",
+        "datedepart": "Jeudi 7 novembre à 15 heures 10 minutes"
+      },
+      "geometry": {
+        "coordinates": [
+          114.157594,
+          22.282274
+        ],
+        "type": "Point"
+      },
+      "id": "ba71fa702b148c22dc1b2711ff4d667f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chicago",
+        "datearrivee": "Mardi 10 décembre à 16 heures",
+        "datedepart": "Mardi 10 décembre à 16 heures"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.624384,
+          41.876498
+        ],
+        "type": "Point"
+      },
+      "id": "c5cc889d2ad54d0c3df6da5fae8369c4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liverpool",
+        "datearrivee": "Samedi 21 décembre à 11 heures 40 minutes",
+        "datedepart": "Samedi 21 décembre à 15 heures"
+      },
+      "geometry": {
+        "coordinates": [
+          -2.991791,
+          53.405816
+        ],
+        "type": "Point"
+      },
+      "id": "c88d1a70ec2ee5900412d7040aaa92c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rothal",
+        "datearrivee": "Mardi 22 octobre à 8 heures",
+        "datedepart": "Mardi 22 octobre à 8 heures"
+      },
+      "geometry": {
+        "coordinates": [
+          77.380475,
+          23.259799
+        ],
+        "type": "Point"
+      },
+      "id": "e2928e5b594118925c63c7e6347a0c6d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queenstown",
+        "datearrivee": "Samedi 21 décembre  à 1 heure",
+        "datedepart": "Samedi 21 décembre à 1 heure 30 minutes"
+      },
+      "geometry": {
+        "coordinates": [
+          -8.29415,
+          51.847458
+        ],
+        "type": "Point"
+      },
+      "id": "e458d4bf8d96a37916847e5ad5c2d901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bombay",
+        "datearrivee": "Dimanche 20 octobre à 16 heures 30 minutes",
+        "datedepart": "Dimanche 20 octobre à 20 heures"
+      },
+      "geometry": {
+        "coordinates": [
+          72.830512,
+          18.929896
+        ],
+        "type": "Point"
+      },
+      "id": "f114fedf6266e625aaf4c5b76fa0c28b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dublin",
+        "datearrivee": "Samedi 21 décembre à 7 heures",
+        "datedepart": "Samedi 21 décembre à 15 heures"
+      },
+      "geometry": {
+        "coordinates": [
+          -6.257025,
+          53.366295
+        ],
+        "type": "Point"
+      },
+      "id": "f3d3a46a640db6cd0d4e42a8f42cc0c1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort Kearney",
+        "datearrivee": "Dimanche 8 décembre  dans l'après-midi",
+        "datedepart": "Lundi 9 décembre à 8 heures"
+      },
+      "geometry": {
+        "coordinates": [
+          -99.08267,
+          40.699177
+        ],
+        "type": "Point"
+      },
+      "id": "f6311445455cbec97f219e36f6945394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ogden",
+        "datearrivee": "Vendredi 6 décembre à 14 heures",
+        "datedepart": "Vendredi 6 décembre à 16 heures"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.970169,
+          41.224201
+        ],
+        "type": "Point"
+      },
+      "id": "fac33a7ff3d84cf95e659d5d8a2773e1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brindisi",
+        "datearrivee": "Samedi 5 octobre à 16 heures",
+        "datedepart": "Samedi 5 octobre à 17 heures"
+      },
+      "geometry": {
+        "coordinates": [
+          17.938141,
+          40.643967
+        ],
+        "type": "Point"
+      },
+      "id": "fed17ada7f935fef03d5f57ebaab3ebf"
+    }
+  ],
+  "type": "FeatureCollection"
+}
